@@ -1,0 +1,6 @@
+{
+  "name": "Sarthak Arya | Artist Portfolio",
+  "description": "Premium futuristic animated portfolio for independent music artist Sarthak Arya, featuring music, gallery, and upcoming releases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
